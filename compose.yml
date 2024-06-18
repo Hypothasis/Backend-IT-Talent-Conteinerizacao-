@@ -1,0 +1,6 @@
+services:
+  backend:
+    image: nome_da_imagem
+    ports:
+      - "8080:8080"
+
